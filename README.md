@@ -1,3 +1,3 @@
 # Pharmacy Project
  This code for assingmnet
- And Laravel frane work use for this
+ And Laravel framework use for this
