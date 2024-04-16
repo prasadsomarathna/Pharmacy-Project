@@ -1,0 +1,36 @@
+#mybutton,#mybutton2 {
+    padding: 30px;
+    font-family: Century;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: center;
+    position: center;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #E6180A, #8E0B0B);   
+    text-shadow: 0 1px 1px hsla(0, 0, 0, 0.3); 
+    box-shadow: 0 1px 6px hsla(0, 0, 0, 0.3); 
+    border-color: #C3C4C6;
+  }
+
+ .mybarnav{
+  width: 100%;
+  background-color: rgb(255, 253, 253);
+  padding: 10px;
+  background: rgb(204, 204, 204);
+
+ }
+
+
+
+.logo {
+
+    text-align: center;
+  }
+
+h1{
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}  
+
+
